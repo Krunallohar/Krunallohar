@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Krunallohar
-- 👀 I’m interested in problem solving and explore new things
+- 👀 I’m interested in problem solving and learning new things
 - 🌱 I’m currently learning java language & web devlopment 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me krunallohar_13 ( instagram )
